@@ -1,4 +1,6 @@
 # Pemrog1
+# Pemrograman Pertemuan 13
+# Python
 ```
 import tkinter as tk
 from view.input_form import InputForm
